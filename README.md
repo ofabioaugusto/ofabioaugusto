@@ -1,8 +1,9 @@
-# Fabio Augusto da Silva
-### Arquiteto de Soluções || Desenvolvedor || DevOps 
 <br>
 <img src="https://static-00.iconduck.com/assets.00/web-developer-illustration-1004x1024-wcqgbag3.png" alt="Fabio" width=100 height=100/>
 <br>
+# Fabio Augusto da Silva
+### Arquiteto de Soluções || Desenvolvedor || DevOps 
+
 -🎯 Eu trabalho com Tecnologia da Informação desde 2010, nas áreas de Infraestrutura, Desenvolviemento e Projetos. <br>
 -🎯 Atualmente Foco na Arquitetura de Soluções Cloud. <br>
 -🎯 Sou formado em Analise e Desenvolvimento de Sistemas pela Anhembi Morumbi (Concluído 2023). <br>
