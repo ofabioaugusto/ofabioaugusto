@@ -8,9 +8,8 @@
 -🎯 Atualmente Foco na Arquitetura de Soluções Cloud. <br>
 -🎯 1ª Formação em Redes de Computadores na Faatesp, concluído em 2013. <br>
 -🎯 2ª Formação em Desenvolvimento de Sistemas na Etec Martin Luther King, concluído em 2023. <br>
--🎯 3ª Formação em Analise e Desenvolvimento de Sistemas naAnhembi Morumbi, concluído em 2023. <br>
--🎯 Sou formado em Analise e Desenvolvimento de Sistemas pela Anhembi Morumbi (Concluído 2023). <br>
--🎯 Certificado AWS. Código da credencial: D8RNNPR29B441NCE<br>
+-🎯 3ª Formação em Analise e Desenvolvimento de Sistemas na Anhembi Morumbi, concluído em 2023. <br>
+-🎯 Certificado AWS Cloud Practitioner. Código da credencial: D8RNNPR29B441NCE<br>
 
 ### Informações e Contatos📫
 
