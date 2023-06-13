@@ -7,11 +7,11 @@
 ### Fabio Augusto da Silva
 ### Arquiteto de Soluções || Desenvolvedor || DevOps
 
--🎯 Eu trabalho com Tecnologia da Informação desde 2010, nas áreas de Infraestrutura, Desenvolviemento e Projetos.;<br>
--🎯 Atualmente Foco na Arquitetura de Soluções Cloud.;<br>
--🎯 Sou formado em Analise e Desenvolvimento de Sistemas pela Anhembi Morumbi (Concluído 2023).<br>
+-🎯 **Eu trabalho com Tecnologia da Informação desde 2010, nas áreas de Infraestrutura, Desenvolviemento e Projetos.** <br>
+-🎯 **Atualmente Foco na Arquitetura de Soluções Cloud.** <br>
+-🎯 **Sou formado em Analise e Desenvolvimento de Sistemas pela Anhembi Morumbi (Concluído 2023).** <br>
 
-📫 Informações e Contatos:
+### Informações e Contatos📫
 
 -🎯 **Linkedin:** https://www.linkedin.com/in/fabio-augusto-41406a115/<br>
 -🎯 **Portfolio:** https://github.com/ofabioaugusto<br>
@@ -31,7 +31,7 @@
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)&nbsp;
 
-### Analítico ⚙️
+### Analítico⚙️
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofabioaugusto&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)<br>
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=ofabioaugusto&count_private=true&show_icons=true&PAT_1=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)<br>
