@@ -1,6 +1,6 @@
 
 
-<img src="" alt="nome" width=400 height=400/>
+<img src="" alt="" width=400 height=400/>
 
 ### Fabio Augusto da Silva
 ### Arquiteto de Soluções || Desenvolvedor || DevOps
