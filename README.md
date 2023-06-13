@@ -4,7 +4,7 @@
 
 -->
 
-#### Fabio Augusto da Silva
+# Fabio Augusto da Silva
 ### Arquiteto de Soluções || Desenvolvedor || DevOps
 
 -🎯 **Eu trabalho com Tecnologia da Informação desde 2010, nas áreas de Infraestrutura, Desenvolviemento e Projetos.** <br>
