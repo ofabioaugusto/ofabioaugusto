@@ -13,23 +13,23 @@
 
 📫 Informações e Contatos:
 
--🎯**Linkedin:** https://www.linkedin.com/in/fabio-augusto-41406a115/<br>
--🎯**Portfolio:** https://github.com/ofabioaugusto<br>
--🎯**Email:** f.augusto@live.com<br>
+-🎯 **Linkedin:** https://www.linkedin.com/in/fabio-augusto-41406a115/<br>
+-🎯 **Portfolio:** https://github.com/ofabioaugusto<br>
+-🎯 **E-mail:** f.augusto@live.com<br>
 
-### Languages & Tools🛠
+### Linguagens e Soluções🛠
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-Html-05122A?style=for-the-badge&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-Css-05122A?style=for-the-badge&logo=css3&logoColor=blue)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)&nbsp;
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
 
 ### Analytics⚙️
 
