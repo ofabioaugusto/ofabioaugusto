@@ -4,7 +4,7 @@
 
 -->
 
-### Fabio Augusto da Silva
+#### Fabio Augusto da Silva
 ### Arquiteto de Soluções || Desenvolvedor || DevOps
 
 -🎯 **Eu trabalho com Tecnologia da Informação desde 2010, nas áreas de Infraestrutura, Desenvolviemento e Projetos.** <br>
@@ -36,4 +36,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofabioaugusto&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)<br>
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=ofabioaugusto&count_private=true&show_icons=true&PAT_1=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)<br>
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ofabioaugusto&hide_border=true&range=all_time&PAT_1=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)<br>
-<br>**Proibida a distribuição ou revenda desse material.
+<br> **Proibida a distribuição ou revenda desse material.**
