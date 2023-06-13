@@ -4,7 +4,7 @@
 # Fabio Augusto da Silva <br>
 ### Arquiteto de Soluções || Desenvolvedor || DevOps <br>
 
--🎯 Eu trabalho com Tecnologia da Informação desde 2010, nas áreas de Infraestrutura, Desenvolviemento e Projetos. <br>
+-🎯 Eu trabalho com Tecnologia da Informação desde 2010, nas áreas de Infraestrutura, Desenvolvimento e Projetos. <br>
 -🎯 Atualmente Foco na Arquitetura de Soluções Cloud. <br>
 -🎯 Sou formado em Analise e Desenvolvimento de Sistemas pela Anhembi Morumbi (Concluído 2023). <br>
 -🎯 Certificado AWS. <br>
