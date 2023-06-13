@@ -12,6 +12,8 @@
 ### Informações e Contatos📫
 
 -🎯 **Linkedin:** https://www.linkedin.com/in/fabio-augusto-41406a115/<br>
+-🎯 **Trailblazer:** https://trailblazer.me/id/fabioaugusto2022<br>
+-🎯 **Credly:** https://www.credly.com/users/fabio-silva.a48f9a6a<br>
 -🎯 **Portfolio:** https://github.com/ofabioaugusto<br>
 -🎯 **E-mail:** f.augusto@live.com<br>
 
@@ -34,4 +36,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofabioaugusto&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)<br>
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=ofabioaugusto&count_private=true&show_icons=true&PAT_1=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)<br>
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ofabioaugusto&hide_border=true&range=all_time&PAT_1=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)<br>
-<br> **Proibida a distribuição ou revenda desse material.**
+<br> 
+
+**Proibida a distribuição ou revenda desse material.**
