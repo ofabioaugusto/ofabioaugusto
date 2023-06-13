@@ -1,7 +1,7 @@
 # Fabio Augusto da Silva
 ### Arquiteto de Soluções || Desenvolvedor || DevOps 
 <br>
-<img src="https://1drv.ms/i/s!Am3weHLmXyOS5XTgvla3wmTWEReK?e=Nsvdb1" alt="Fabio" width=400 height=400/>
+<img src="blob:https://photos.onedrive.com/79f20db6-2676-420f-8591-7e8835ed4759" alt="Fabio" width=400 height=400/>
 <br>
 -🎯 **Eu trabalho com Tecnologia da Informação desde 2010, nas áreas de Infraestrutura, Desenvolviemento e Projetos.** <br>
 -🎯 **Atualmente Foco na Arquitetura de Soluções Cloud.** <br>
