@@ -1,6 +1,5 @@
 
 <img src="https://static-00.iconduck.com/assets.00/web-developer-illustration-1004x1024-wcqgbag3.png" alt="Fabio" width=100 height=100/>
-<br>
 
 # Fabio Augusto da Silva <br>
 ### Arquiteto de Soluções || Desenvolvedor || DevOps <br>
