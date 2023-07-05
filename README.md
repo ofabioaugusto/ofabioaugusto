@@ -11,7 +11,7 @@
 -🎯 3ª Formação em Analise e Desenvolvimento de Sistemas na Anhembi Morumbi, concluído em 2023. <br>
 -🎯 Certificado AWS Cloud Practitioner. Código da credencial: D8RNNPR29B441NCE<br>
 
-### Informações e Contatos📫
+### Informações e Contatos 📫
 
 -🎯 **Linkedin:** https://www.linkedin.com/in/fabio-augusto-41406a115/<br>
 -🎯 **Trailblazer:** https://trailblazer.me/id/fabioaugusto2022<br>
@@ -19,7 +19,7 @@
 -🎯 **Portfolio:** https://github.com/ofabioaugusto<br>
 -🎯 **E-mail:** f.augusto@live.com<br>
 
-### Linguagens e Soluções🛠
+### Linguagens e Soluções 🛠
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
@@ -36,7 +36,7 @@
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 
-### Analítico⚙️
+### Analítico ⚙️
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofabioaugusto&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)<br>
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=ofabioaugusto&count_private=true&show_icons=true&PAT_1=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)<br>
