@@ -5,19 +5,19 @@
 ### Arquiteto de Soluções || Desenvolvedor || DevOps <br>
 
 -🎯 Eu trabalho com Tecnologia da Informação desde 2010, nas áreas de Infraestrutura, Desenvolvimento e Projetos. <br>
--🎯 Atualmente Foco na Arquitetura de Soluções Cloud. <br>
--🎯 1ª Formação em Redes de Computadores na Faatesp, concluído em 2013. <br>
--🎯 2ª Formação em Desenvolvimento de Sistemas na Etec Martin Luther King, concluído em 2023. <br>
--🎯 3ª Formação em Analise e Desenvolvimento de Sistemas na Anhembi Morumbi, concluído em 2023. <br>
--🎯 Certificado AWS Cloud Practitioner. Código da credencial: D8RNNPR29B441NCE<br>
+Atualmente Foco na Arquitetura de Soluções Cloud. <br>
+1ª Formação em Redes de Computadores na Faatesp, concluído em 2013. <br>
+2ª Formação em Desenvolvimento de Sistemas na Etec Martin Luther King, concluído em 2023. <br>
+3ª Formação em Analise e Desenvolvimento de Sistemas na Anhembi Morumbi, concluído em 2023. <br>
+Certificado AWS Cloud Practitioner. Código da credencial: D8RNNPR29B441NCE<br>
 
 ### Informações e Contatos 📫
 
--🎯 **Linkedin:** https://www.linkedin.com/in/fabio-augusto-41406a115/<br>
--🎯 **Trailblazer:** https://trailblazer.me/id/fabioaugusto2022<br>
--🎯 **Credly:** https://www.credly.com/users/fabio-silva.a48f9a6a<br>
--🎯 **Portfolio:** https://github.com/ofabioaugusto<br>
--🎯 **E-mail:** f.augusto@live.com<br>
+**Linkedin:** https://www.linkedin.com/in/fabio-augusto-41406a115/<br>
+**Trailblazer:** https://trailblazer.me/id/fabioaugusto2022<br>
+**Credly:** https://www.credly.com/users/fabio-silva.a48f9a6a<br>
+**Portfolio:** https://github.com/ofabioaugusto<br>
+**E-mail:** f.augusto@live.com<br>
 
 ### Linguagens e Soluções 🛠
 
